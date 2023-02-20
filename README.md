@@ -6,6 +6,7 @@
 To install the dependencies for the project, go to the root directory 
  - first: install pipenv
  - on root directory: pipenv sync 
+ - pipenv shell
 
 To run the development server
 - cd portfolio_mgmt
