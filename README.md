@@ -18,7 +18,9 @@ Silk UI to review the db queries
 - http://127.0.0.1:8000/silk/
 
 Database models for the portfolio and project on : root/portfolio_mgmt/portfolio/models.py
+
 Serialization is done with rest framework serializers:  root/portfolio_mgmt/portfolio/serializers.py
+
 Viewset logic is done with on :  root/portfolio_mgmt/portfolio/views.py
 
 To refer the Thames only email validation system: root/portfolio_mgmt/users/serializers.py
