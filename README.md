@@ -21,6 +21,6 @@ Database models for the portfolio and project on : root/portfolio_mgmt/portfolio
 
 Serialization is done with rest framework serializers:  root/portfolio_mgmt/portfolio/serializers.py
 
-Viewset logic is done with on :  root/portfolio_mgmt/portfolio/views.py
+Viewset logic is on :  root/portfolio_mgmt/portfolio/views.py
 
 To refer the Thames only email validation system: root/portfolio_mgmt/users/serializers.py
